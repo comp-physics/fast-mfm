@@ -1,6 +1,6 @@
 # Fast Macroscopic Forcing Method (Fast MFM)
 
-S. H. Bryngelson*, F. Schaefer*, J. Liu, A. Mani
+S. H. Bryngelson*, F. Schäfer*, J. Liu, A. Mani
 
 \*co-first authors
 
