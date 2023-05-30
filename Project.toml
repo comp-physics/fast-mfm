@@ -1,0 +1,9 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+CompressingSolvers = "ee8cdd4e-c1c6-4e20-b2bd-c597b34c2dac"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
