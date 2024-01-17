@@ -1,8 +1,6 @@
 # Fast Macroscopic Forcing Method (Fast MFM)
 
-S. H. Bryngelson*, F. Schäfer*, J. Liu, A. Mani
-
-\*co-first authors
+Code for: __*Bryngelson, S. H., *Schäfer, F., Liu, J., & Mani, A. (2024). Fast Macroscopic Forcing Method. Journal of Computational Physics, 499, 112721. *Authors contributed equally.__
 
 ## Abstract
 
@@ -32,3 +30,21 @@ for problems in which the RANS space is reducible to one dimension, eddy diffusi
 viscosity operators can be reconstructed with reasonable accuracy using only a few simulations,
 regardless of simulation resolution or degrees of freedom.
 
+## Citation
+
+```bibtex
+@article{bryngelsonfmfm24,
+  author = {{*}Bryngelson, S. H. and {*}Sch{\"a}fer, F. and Liu, J. and Mani, A.},
+  title = {Fast macroscopic forcing method},
+  journal = {Journal of Computational Physics},
+  year = {2024},
+  volume = {499},
+  pages = {112721},
+  doi = {10.1016/j.jcp.2023.112721},
+  note = {{*}Authors contributed equally}
+}
+```
+
+## License
+
+MIT
